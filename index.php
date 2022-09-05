@@ -9,5 +9,9 @@
 <body>
     <h1>Flora Lebonna Katumbo</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam culpa obcaecati molestiae. Rem ea quis atque, quibusdam laudantium, quidem, porro molestias cum illum temporibus beatae eum explicabo reiciendis nulla. Maxime.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
